@@ -1,0 +1,9 @@
+Name: Eath
+Score: 82
+Name: TOI 700 e
+Score: 79
+Name: Mars 
+Score: 62
+Name: Proxima b
+Score: 82
+
