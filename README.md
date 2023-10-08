@@ -35,7 +35,7 @@ The program calculates a final score based on the user's responses to help deter
 ## Contributing
 This program was developed as part of the NASA Space Apps Hackathon. Contributions and enhancements are welcome. Feel free to fork the repository and create pull requests with your improvements.
 
-##Citations 
+## Citations 
 We have came up with the idea on ourselves and took inpirations from wikipeidia and Nasa's Data that is publically avalible.
 
 ## Credits
